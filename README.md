@@ -1,5 +1,3 @@
-# Créateur : Thomas ANTOINE G3A
-
 # r201-tp-doo : squelette de structure vide pour TP R2.01 DOO Java
 
 Noter :
@@ -8,3 +6,5 @@ Ne pas modifier ce fichier.
 - la présence du fichier caché <code>.classpath</code>
 
 Les fichiers sources, qui répondent au sujet, doivent tous être rangés dans le dossier principal, sans sous-dossiers.
+
+*Modifié par : Thomas ANTOINE G3A*
