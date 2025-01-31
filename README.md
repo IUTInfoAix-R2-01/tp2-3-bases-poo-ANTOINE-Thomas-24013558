@@ -1,3 +1,5 @@
+# Créateur : Thomas ANTOINE G3A
+
 # r201-tp-doo : squelette de structure vide pour TP R2.01 DOO Java
 
 Noter :
